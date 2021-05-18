@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "firebase-sadhana"
+  },
+  "targets": {
+    "firebase-sadhana": {
+      "hosting": {
+        "docs": [
+          "docs-sadhana"
+        ]
+      }
+    }
+  }
+}
