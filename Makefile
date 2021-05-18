@@ -4,7 +4,7 @@ deploy:
 	echo "Warning: Change redirect destination in ../firebase.json when deploying to production"
 
 serve:
-	bundle exec jekyll serve --host 192.168.1.147
+	bundle exec jekyll serve --host 0.0.0.0
 
 clean:
 	bundle exec jekyll clean

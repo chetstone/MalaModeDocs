@@ -3,7 +3,6 @@ layout: default
 title: Counter
 nav_order: 2
 has_children: true
-permalink: /docs/counter
 ---
 
 # Counter
