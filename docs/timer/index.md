@@ -42,7 +42,7 @@ Once you have chosen the type and frequency, set the bell sound and volume you w
 A summary of your chosen  bells appears on the Setup screen. Press the *Start* button to start your session. You can pause and resume the session at any time. If you should momentarily switch to another app, the timer will continue counting down and interval bells will play in the background.
 
 ## Timer Options
-Touching the menu icon at the top left of the Navigation bar when you're on the Timer Setup screen will open a drawer with several options.
+Touching the menu icon <span class="material-icons">menu</span> at the top left of the Navigation bar when you're on the Timer Setup screen will open a drawer with several options.
 
 ### Sessions
 #### Accumulated Time
@@ -60,4 +60,6 @@ For entering a session manually without running the timer. You might use this if
 You can choose from several color themes for the timer.;
 
 ## Timer Presets
-Save your current counter settings by touching the icon in the top right of the Navigation bar and entering a name for your preset. To use a preset, touch the name of the current preset in the title bar and choose your new one. To delete a preset, touch the preset name in the title bar and swipe right-to-left on the preset you want to delete and select the red *Delete* button. If you have *Premium Service* and are logged in to your account, your presets are saved in the cloud and synchronized to all your devices.
+Save your current counter settings by touching the icon
+<span class="material-icons">playlist_add</span>
+in the top right of the Navigation bar and entering a name for your preset. To use a preset, touch the name of the current preset in the title bar and choose your new one. To delete a preset, touch the preset name in the title bar and swipe right-to-left on the preset you want to delete and select the red *Delete* button. If you have *Premium Service* and are logged in to your account, your presets are saved in the cloud and synchronized to all your devices.
