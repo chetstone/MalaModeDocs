@@ -9,7 +9,7 @@ has_children: false
 
 With an account, you can create multiple counters and synchronize them in real time among multiple devices when online. This also gives you an online backup in case you should experience data loss on your phone. You can log in to the [Web App](https://malamode.io/demo){: target="malamode"} and view your counts, or restore to a new MalaMode installation on your device by logging in.
 
-If you have an account but have forgotton your password, [reset your password here.](/forgotpassword/).
+If you have an account but have forgotton your password, [reset your password here.](https://malamode.io/forgotpassword/).
 
 ## How do I register for an account?
 
@@ -22,7 +22,7 @@ If you have a small phone and the text is jumbled on the Register screen, you ma
 
 ### I forgot or want to  change my password
 
-[Reset your password here](/forgotpassword/) - or -
+[Reset your password here](https://malamode.io/forgotpassword/) - or -
 
-[Change your password here](/changepassword/)
+[Change your password here](https://malamode.io/changepassword/)
 
