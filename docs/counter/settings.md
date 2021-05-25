@@ -50,7 +50,7 @@ The options on this screen affect the app as a whole, and not just the current c
 
 ### Lock Main Counter Button {#LockCounter}
 
-This option is available in Settings/App Configuration. This provides an even more distraction-free, foolproof operation of your counter. It prevents you from accidentally switching to another screen when you're counting.  In this mode, briefly touching any of the buttons in the navigation bar or tab bar does nothing.  You can still access all those functions intentionally by using a long press on the button.  In this mode, the status bar (the strip on top with the carrier and battery information) is hidden and, on older iOS devices with a Home button, you're also prevented from bringing up the control panel or notification center  when swiping from the bottom or top. (You can still accomplish this by swiping again.)
+This option is available in Settings/App Configuration. This provides an even more distraction-free, foolproof operation of your counter. It prevents you from accidentally switching to another screen when you're counting.  In this mode, briefly touching any of the buttons in the navigation bar or tab bar does nothing.  You can still access all those functions intentionally by using a long press on the button.  In this mode, the status bar (the strip on top with the carrier and battery information) is hidden. {% if site.platform != "android" %} On older iOS devices with a Home button, you're also prevented from bringing up the control panel or notification center  when swiping from the bottom or top. (You can still accomplish this by swiping again.) {% endif %}
 
 ### Keep App Awake {#KeepAwake}
 Turning this on keeps the phone from locking when idle. Since it forces the screen to stay on continuously, be aware that it may run the battery down.
@@ -58,9 +58,10 @@ Turning this on keeps the phone from locking when idle. Since it forces the scre
 ### Lock in Portrait {#LockPortrait}
 Prevents the phone from switching to landscape mode when it is rotated.
 
-
-## Show Timer (iOS Only) ## {#ShowTimer}
+{% if site.platform != "android" %}
+## Show Timer {% if site.platform == "web" %} (iOS Only) {% endif %} ## {#ShowTimer}
 If this is on and the Timer is active and counting down, the current remaining time is shown on the Counter screen in a smaller font just below the count. Be aware that on old and slow devices this can make the counter less responsive.
+{% endif %}
 
 ## [Background Image]({{site_url}}/docs/counter/background-image)
 

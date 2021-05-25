@@ -5,6 +5,8 @@
 .jekyll-cache
 .sass-cache
 _site
+_android_site
+_ios_site
 Gemfile.lock
 node_modules
 .jekyll-metadata

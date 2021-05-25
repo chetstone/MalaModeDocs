@@ -5,7 +5,7 @@ nav_order: 3
 has_children: false
 ---
 
-# Timer (iOS Only)
+# Timer {% if site.platform == "web" %} (iOS Only) {% endif %}
 
 Time your meditations
 ## Duration

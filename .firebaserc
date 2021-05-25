@@ -7,6 +7,12 @@
       "hosting": {
         "docs": [
           "docs-sadhana"
+        ],
+        "ios": [
+          "ios-sadhana"
+        ],
+        "android": [
+          "android-sadhana"
         ]
       }
     }

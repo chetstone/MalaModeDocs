@@ -1,15 +1,16 @@
 {
-  "hosting": {
-    "target": "docs",
-    "public": "_site",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
-    "rewrites": [
-      {
-        "source": "/docs/utilities",
-        "destination": "/docs/utilities.html",
-        "source": "/docs/ui-components",
-        "destination": "/docs/ui-components.html"
-      }
-    ]
-  }
+  "hosting": [
+    {
+      "target": "docs",
+      "public": "_site"
+    },
+    {
+      "target": "ios",
+      "public": "_ios_site"
+    },
+    {
+      "target": "android",
+      "public": "_android_site"
+    }
+  ]
 }

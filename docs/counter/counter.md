@@ -47,4 +47,4 @@ Of course in most cases, the best way to recover from double count is to simply 
 
 ### Can I use MalaMode Online? Offline?
 
-The iOS and Android apps, if you are logged into your account, synchronize your counts between different devices via the cloud when you are online, but are also reliable for use for an extended time offline: they will syncronize whenever they are reconnected to the internet. But if you're not logged in to an account, it doesn't matter whether you are online or offline --- the data is stored reliably in the device's filesystem.
+The iOS and Android apps, if you are logged into your account, synchronize your counts between different devices via the cloud when you are online, but are also reliable for use for an extended time offline: they will synchronize whenever they are reconnected to the internet. But if you're not logged in to an account, it doesn't matter whether you are online or offline --- the data is stored reliably in the device's filesystem.
