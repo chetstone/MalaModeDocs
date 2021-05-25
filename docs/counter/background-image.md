@@ -16,12 +16,12 @@ When you have installed a background image, the following options will be availa
 
 This screen allows you to change the location and size of the count, as shown below.
 
-![Image is]({{site_url}}/assets/images/Screenshots/display_options.PNG){: width="160" }{: .mx-8 }
+![Image is]({{site.baseurl}}/assets/images/Screenshots/display_options.PNG){: width="160" }{: .mx-8 }
 
 ## Choose Accent Colors
 Choose your preferred color for the Navigation and Tab bars from a palette of colors extracted from the image.
 
-![Image is]({{site_url}}/assets/images/Screenshots/accent_colors.PNG){: width="160" }{: .mx-8 }
+![Image is]({{site.baseurl}}/assets/images/Screenshots/accent_colors.PNG){: width="160" }{: .mx-8 }
 
  {% if site.platform != "android" %} 
 #### What to do if Choose Accent Colors offers only a single color: Black {% if site.platform == "web" %} (iOS only) {% endif %}

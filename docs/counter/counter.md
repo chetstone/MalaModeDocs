@@ -15,27 +15,27 @@ makes it easy to count without looking at the device.
 When counting, you may want more security against unwanted operations 
 (for example, if you are counting while walking).  For this, you can:
 
-* [Lock the Main Counter Button]({{site_url}}/docs/counter/settings/#LockCounter)
+* [Lock the Main Counter Button]({{site.baseurl}}/docs/counter/settings/#LockCounter)
 so that an accidental tap on the Navigation bar or  Tab bar will not have any effect.
-* [Keep App Awake]({{site_url}}/docs/counter/settings/#KeepAwake) to keep the phone from going to sleep.
-* [Lock in Portrait]({{site_url}}/docs/counter/settings/#LockPortrait) to the phone from switching to landscape mode when it is rotated.
+* [Keep App Awake]({{site.baseurl}}/docs/counter/settings/#KeepAwake) to keep the phone from going to sleep.
+* [Lock in Portrait]({{site.baseurl}}/docs/counter/settings/#LockPortrait) to the phone from switching to landscape mode when it is rotated.
 
 ## Other options
 
-There many ways to customize your counter by selecting the [Settings]({{site_url}}/docs/counter/settings) tab in the Tab bar. You can, for example:
+There many ways to customize your counter by selecting the [Settings]({{site.baseurl}}/docs/counter/settings) tab in the Tab bar. You can, for example:
 
 * Set the increment  by which the counter advances  with each press
 * Add or subtract an arbitrary amount to the total
 * Set a background image
 * Set a sound to play or vibrate the phone at each count
-* Emulate a mala with [Mala Mode]({{site_url}}/docs/counter/mala-mode)
-* Keep track of progress towards a goal with [Target Mode]({{site_url}}/docs/counter/target-mode)
+* Emulate a mala with [Mala Mode]({{site.baseurl}}/docs/counter/mala-mode)
+* Keep track of progress towards a goal with [Target Mode]({{site.baseurl}}/docs/counter/target-mode)
 * Share your accumulations by email
 
 ## Counting FAQs
 
 ### I'm very attached to my mala---I don't want to give it up!
-That's understandable. That's why we designed *MalaMode* to serve as a mala accessory as well as a primary counter. You can use your mala for your primary counts, and just use *MalaMode* to keep track of the number of rounds you have done. You might want to set your [counting increment]({{site_url}}/docs/counter/settings/#increment) to the length of your mala (e.g. 108), and use [Mala Mode]({{site_url}}/docs/counter/mala-mode) to display the number of rounds. Or just simply count rounds.
+That's understandable. That's why we designed *MalaMode* to serve as a mala accessory as well as a primary counter. You can use your mala for your primary counts, and just use *MalaMode* to keep track of the number of rounds you have done. You might want to set your [counting increment]({{site.baseurl}}/docs/counter/settings/#increment) to the length of your mala (e.g. 108), and use [Mala Mode]({{site.baseurl}}/docs/counter/mala-mode) to display the number of rounds. Or just simply count rounds.
 
 ### What if I don't want my phone near me while meditating?
 
@@ -43,7 +43,7 @@ Well, we can't help you there but we totally get it! Phones are very distracting
 
 ### I accidentally pressed the counter twice!
 
-Of course in most cases, the best way to recover from double count is to simply recite another mantra without pressing the counter.  But you also have the option of switching to the History tab and deleting the latest count there. (If you have *Mala Mode* turned on, make sure you're displaying Count history, not Rounds as described [here]({{site_url}}/docs/counter/history). Just swipe to the left and hit delete. That count will be subtracted from the total.
+Of course in most cases, the best way to recover from double count is to simply recite another mantra without pressing the counter.  But you also have the option of switching to the History tab and deleting the latest count there. (If you have *Mala Mode* turned on, make sure you're displaying Count history, not Rounds as described [here]({{site.baseurl}}/docs/counter/history). Just swipe to the left and hit delete. That count will be subtracted from the total.
 
 ### Can I use MalaMode Online? Offline?
 

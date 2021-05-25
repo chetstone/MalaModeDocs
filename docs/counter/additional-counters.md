@@ -7,7 +7,7 @@ nav_order: 6
 
 # Additional Counters
 
-If you have subscribed to *Premium Service* with an In-App Purchase, and have created and logged in to an [account]({{site_url}}/docs/account),  you can have as many counters as you like.
+If you have subscribed to *Premium Service* with an In-App Purchase, and have created and logged in to an [account]({{site.baseurl}}/docs/account),  you can have as many counters as you like.
 {: .fs-6 .fw-300 }
 
 ## Choosing a counter
@@ -23,7 +23,7 @@ Bring up the list of counters by touching the current counter name in the center
 You cannot delete the current counter, so first switch to any other counter, then touch its name in the Navigation bar to bring up the counter list. {% if site.platform == "web" %} Then, on iOS, swipe the counter name you want to delete from right to left, and hit the red *Delete* button that appears. On Android, touch *Edit* first, then swipe and touch *Delete*. {% elsif site.platform == "ios" %} Then swipe the counter name you want to delete from right to left, and hit the red *Delete* button that appears. {% else  %}  Touch *Edit*, then  swipe the counter name you want to delete from right to left, and hit the red *Delete* button that appears. {% endif %}
 
 ## Renaming a counter
-You can rename the current counter in [Settings]({{site_url}}/docs/counter/settings/#name).
+You can rename the current counter in [Settings]({{site.baseurl}}/docs/counter/settings/#name).
 
 ## Reordering counters
 Since you can easily move backwards and forwards in the counter list using the arrow buttons in the Navigation bar, it is useful to be able to change the order of list. Bring up the counter list as described above,  touch *Edit*, then you can drag the counters up and down in the list.  {% if site.platform == "web" %}  On iOS, touch and drag using the drag handles on the right. On Android, you can touch and drag anywhere in the item. {% elsif site.platform == "ios" %} Use the drag handles on the right side of the item. {% endif %} 

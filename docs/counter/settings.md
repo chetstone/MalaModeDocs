@@ -22,7 +22,7 @@ Edit the name of your counter by touching in this field. Touch **Go** on the key
 You can enter any number (positive or negative) you wish here, to adjust the current total of the counter. You can use this for example to preset the counter to a accumulation you have kept track of using another method, such as writing it down.
 
 ## Increment {#increment}
-Enter the number of counts you wish to advance the counter with each activation. By default this is **1**. But for example if you are using a normal mala of 108 beads to do your individual counts and just want MalaMode to count the number of rounds, you could set this to 108. Note that it is possible to use a negative number here for a countdown counter (but see [Target Mode]({{site_url}}/docs/counter/target-mode) for a typical use of counting down).
+Enter the number of counts you wish to advance the counter with each activation. By default this is **1**. But for example if you are using a normal mala of 108 beads to do your individual counts and just want MalaMode to count the number of rounds, you could set this to 108. Note that it is possible to use a negative number here for a countdown counter (but see [Target Mode]({{site.baseurl}}/docs/counter/target-mode) for a typical use of counting down).
 
 ## Vibrate
 Turn this on to make the phone vibrate on each count. One use for this giving you positive confirmation of each count if you are counting, say, while walking with the phone in your pocket.
@@ -30,20 +30,20 @@ Turn this on to make the phone vibrate on each count. One use for this giving yo
 ## Sound
 Turn this on if you want to hear a click or other sound on each count. When you turn the switch on, the screen gives you a selection of sounds and volume control for the current counter.
 
-## [Mala Mode]({{site_url}}/docs/counter/mala-mode)
+## [Mala Mode]({{site.baseurl}}/docs/counter/mala-mode)
 
-## [Target Mode]({{site_url}}/docs/counter/target-mode)
+## [Target Mode]({{site.baseurl}}/docs/counter/target-mode)
 
 ## Clear Buttons
 
 ### Clear Partial Counts in Round
-This option only appears if [Mala Mode]({{site_url}}/docs/counter/mala-mode) is on. It resets the current partial count to zero without changing the number of rounds.
+This option only appears if [Mala Mode]({{site.baseurl}}/docs/counter/mala-mode) is on. It resets the current partial count to zero without changing the number of rounds.
 
 ### Clear Total Count
 Resets the total to zero.
 
 ### Clear History
-Clears the [Count History]({{site_url}}/docs/counter/history).
+Clears the [Count History]({{site.baseurl}}/docs/counter/history). It will not change your total count.
 
 ## App Configuration
 The options on this screen affect the app as a whole, and not just the current counter.
@@ -63,7 +63,7 @@ Prevents the phone from switching to landscape mode when it is rotated.
 If this is on and the Timer is active and counting down, the current remaining time is shown on the Counter screen in a smaller font just below the count. Be aware that on old and slow devices this can make the counter less responsive.
 {% endif %}
 
-## [Background Image]({{site_url}}/docs/counter/background-image)
+## [Background Image]({{site.baseurl}}/docs/counter/background-image)
 
 ## Help
 View this document.

@@ -1,3 +1,4 @@
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "firebase.json", "Makefile" ,"docs/timer"]
 platform: android
 destination: _android_site
+baseurl: /assets/misc/android

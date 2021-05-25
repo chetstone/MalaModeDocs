@@ -1,2 +1,3 @@
 platform: ios
 destination: _ios_site
+baseurl: /assets/misc/ios

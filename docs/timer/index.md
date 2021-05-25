@@ -11,7 +11,7 @@ Time your meditations
 ## Duration
 When the Timer tab is selected (the left-most entry in the Tab bar at the bottom of the screen), the Timer setup screen is displayed. Initially the countdown time is set to 30 minutes. If you want to change this, touch the *Set Duration* button below the large time display. If you have not already bought the *Timer* in-app purchase, a page will come up where you can complete your purchase. After that, when you touch *Set Duration*, you can set the countdown time anywhere from 1 minute to 24 hours.
 
-![Image is]({{site_url}}/assets/images/Screenshots/iPhone 5s timer.png){: width="160" }{: .mx-8 .my-4 }
+![Image is]({{site.baseurl}}/assets/images/Screenshots/iPhone 5s timer.png){: width="160" }{: .mx-8 .my-4 }
 
 ## Bells
 After setting the Duration, you can choose Starting, Ending and Interval bells. You have a number of bell sounds to choose from, and can set relative volume for each bell (the phone's main volume controls also affect the overall volume). You can choose to have the bell repeat twice or three times if you like.
